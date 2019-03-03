@@ -1,5 +1,5 @@
 import pytest
-from project.models import Events, User
+
 import random
 import datetime
  
